@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 //1
-//2
 //报名入学接口
 interface ISignUp{
     // 打印输出结果
